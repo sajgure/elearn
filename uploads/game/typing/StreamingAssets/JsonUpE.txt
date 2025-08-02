@@ -1,0 +1,413 @@
+{
+
+  "MARATHI" :
+  {
+
+    "Easy":
+    {
+      "1":"dGsy",
+      "2":"gks.ks",
+       "3":"vkgs", 
+       "4":"vkbZ", 
+       "5":"ckck",
+       "6":"vVG",
+       "7":"vFkok",
+       "8":"vkuan",
+       "9":"uohu",
+       "10":"vk/khp",
+       "11":"rkjh[k",
+       "15":"uksan",
+       "16":"ek.kwl",
+       "17":"xkMhus",
+       "18":"ikuxG",
+       "19":"ikyoh",
+       "20":"lerksy",
+       "21":"iyhdMs",
+       "22":"tkowu",
+       "23":"lknj",
+       "24":"vkdk'k",
+       "25":"dfork",
+       "26":"xkSjo",
+       "27":"t[kek",
+       "28":"eksdG",
+       "29":"dBksj",
+       "30":"ckscMs"
+    },
+
+    "Hard":
+    {  
+      "1":"leksjP;k",
+      "2":"O;DrhP;k",
+      "3":"fuLokFkZ",
+      "4":"ek.kqldhyk",
+      "5":"izR;sdkP;k",
+      "6":"l/;kP;k",
+      "7":"/kkoiGhP;k",
+      "8":'nzq"Vhdks.k',
+      "9":"ukR;kae/khy",
+      "10":"drqZRokoj",
+      "11":"O;kfDreRo",
+      "12":"tUeY;kiklwu",
+      "13":'ejk"Vzkrhy',
+      "14":'Hkk"ksrlq/nk',
+      "15":'e/;izkar',
+      "16":"e/;izns'k",
+      "17":"'kCnkizkek.ks",
+      "18":"lq{etho",
+      "19":"i=Fohojhy",
+      "20":'thol="Vhl'
+    },
+
+
+    "Home":
+    {  
+      "1":"dGsy",
+      "2":"gks.ks",
+       "3":"vkgs", 
+       "4":"vkbZ", 
+       "5":"ckck",
+       "6":"vVG",
+       "7":"vFkok",
+       "8":"vkuan",
+       "9":"uohu",
+       "10":"vk/khp",
+       "11":"rkjh[k",
+       "15":"uksan",
+       "16":"ek.kwl",
+       "17":"xkMhus",
+       "18":"ikuxG",
+       "19":"ikyoh",
+       "20":"lerksy",
+       "21":"iyhdMs",
+       "22":"tkowu",
+       "23":"lknj",
+       "24":"vkdk'k",
+       "25":"dfork",
+       "26":"xkSjo",
+       "27":"t[kek",
+       "28":"eksdG",
+       "29":"dBksj",
+       "30":"ckscMs"
+    },
+
+    "Top":
+    {  
+      "1":"dGsy",
+      "2":"gks.ks",
+       "3":"vkgs", 
+       "4":"vkbZ", 
+       "5":"ckck",
+       "6":"vVG",
+       "7":"vFkok",
+       "8":"vkuan",
+       "9":"uohu",
+       "10":"vk/khp",
+       "11":"rkjh[k",
+       "15":"uksan",
+       "16":"ek.kwl",
+       "17":"xkMhus",
+       "18":"ikuxG",
+       "19":"ikyoh",
+       "20":"lerksy",
+       "21":"iyhdMs",
+       "22":"tkowu",
+       "23":"lknj",
+       "24":"vkdk'k",
+       "25":"dfork",
+       "26":"xkSjo",
+       "27":"t[kek",
+       "28":"eksdG",
+       "29":"dBksj",
+       "30":"ckscMs" 
+    },
+
+    "Bottom":
+    {  
+      "1":"dGsy",
+      "2":"gks.ks",
+       "3":"vkgs", 
+       "4":"vkbZ", 
+       "5":"ckck",
+       "6":"vVG",
+       "7":"vFkok",
+       "8":"vkuan",
+       "9":"uohu",
+       "10":"vk/khp",
+       "11":"rkjh[k",
+       "15":"uksan",
+       "16":"ek.kwl",
+       "17":"xkMhus",
+       "18":"ikuxG",
+       "19":"ikyoh",
+       "20":"lerksy",
+       "21":"iyhdMs",
+       "22":"tkowu",
+       "23":"lknj",
+       "24":"vkdk'k",
+       "25":"dfork",
+       "26":"xkSjo",
+       "27":"t[kek",
+       "28":"eksdG",
+       "29":"dBksj",
+       "30":"ckscMs"
+    },
+
+    "Sentance":
+    {
+      "1" : "vkiY;k lHkksorkyh vusd ltho vkgsr",
+      "2" : "R;kps lkeF;Z fdrh eksBs vkgs",
+      "3":'ejkBh Hkk"kk vkeqph ek;cksyh Eg.kts ekr=Hkk"kk',
+      "4":"izR;sd 'kCnkph vuqHkqrh osxGh"
+    },
+
+    "HardSentace":
+    {
+      "1":'ejkBh Hkk"kk vkeqph ek;cksyh Eg.kts ekr=Hkk"kk',
+      "2":"R;kps lkeF;Z fdrh eksBs vkgs"
+    },
+
+    "HomeSentace":
+    {
+      "2":"izR;sd 'kCnkph vuqHkqrh osxGh",
+      "1":"R;kps lkeF;Z fdrh eksBs vkgs"
+    },
+
+    "TopSentace":
+    {
+      "2" : "vkiY;k lHkksorkyh vusd ltho vkgsr",
+      "1" : "vkiY;k lHkksorkyh vusd ltho vkgsr"
+    },
+
+    "BottomSentace":
+    {
+      "1":'ejkBh Hkk"kk vkeqph ek;cksyh Eg.kts ekr=Hkk"kk',
+      "2":"vkiY;k lHkksorkyh vusd ltho vkgsr"
+    }
+  },
+
+
+  "ENGLISH" :
+  {
+    "Easy":
+    {
+      "1":"adult",
+      "2":"adapt",
+      "3":"grant",
+      "4":"grapes",
+      "5":"happy",
+      "6":"king",
+      "7":"queen",
+      "8":"book",
+      "9":"mobile",
+      "10":"table",
+      "11":"ring",
+      "12":"bottle",
+      "13":"lunch",
+      "14":"dinner",
+      "15":"kitchen",
+      "16":"stall",
+      "17":"design",
+      "18":"player",
+      "19":"home",
+      "20":"insert",
+      "21":"tablet",
+      "22":"cover",
+      "23":"doctor",
+      "24":"writer",
+      "25":"reader",
+      "26":"cartoon",
+      "27":"basic",
+      "28":"room",
+      "29":"pencil",
+      "30":"folder",
+      "31":"simple",
+      "32":"jungle",
+      "33":"mouse",
+      "34":"random",
+      "35":"time",
+      "36":"date",
+      "37":"second",
+      "38":"letters",
+      "39":"word",
+      "40":"hero",
+      "41":"actor",
+      "42":"movie",
+      "43":"drama",
+      "44":"save",
+      "45":"edit",
+      "46":"update",
+      "47":"delete",
+      "48":"house",
+      "49":"volume",
+      "50":"bass"
+    },
+    "Hard":
+    {
+      "1":"language",
+      "2":"domestic",
+      "3":"document",
+      "4":"reference",
+      "5":"mailing",
+      "6":"keyboard",
+      "7":"housewife",
+      "8":"general",
+      "9":"subversion",
+      "10":"pictures",
+      "11":"harassment",
+      "12":"handkerchief",
+      "13":"accommodate",
+      "14":"cemetery",
+      "15":"millennium",
+      "16":"maintenance",
+      "17":"occurred",
+      "18":"editing",
+      "19":"calculator",
+      "20":"institute"
+    },
+
+    "Home":
+    {  
+      "1":"language",
+      "2":"domestic",
+      "3":"document",
+      "4":"reference",
+      "5":"mailing",
+      "6":"keyboard",
+      "7":"housewife",
+      "8":"general",
+      "9":"subversion",
+      "10":"pictures",
+      "11":"ring",
+      "12":"bottle",
+      "13":"lunch",
+      "14":"dinner",
+      "15":"kitchen",
+      "16":"stall",
+      "17":"design",
+      "18":"player",
+      "19":"home",
+      "20":"insert",
+      "21":"tablet",
+      "22":"cover",
+      "23":"doctor",
+      "24":"writer",
+      "25":"reader",
+      "26":"cartoon",
+      "27":"basic",
+      "28":"room",
+      "29":"pencil",
+      "30":"folder"
+    },
+
+    "Top":
+    {
+        "1":"language",
+        "2":"domestic",
+        "3":"document",
+        "4":"reference",
+        "5":"mailing",
+        "6":"keyboard",
+        "7":"housewife",
+        "8":"general",
+        "9":"subversion",
+        "10":"pictures",
+        "11":"ring",
+        "12":"bottle",
+        "13":"lunch",
+        "14":"dinner",
+        "15":"kitchen",
+        "16":"stall",
+        "17":"design",
+        "18":"player",
+        "19":"home",
+        "20":"insert",
+        "21":"tablet",
+        "22":"cover",
+        "23":"doctor",
+        "24":"writer",
+        "25":"reader",
+        "26":"cartoon",
+        "27":"basic",
+        "28":"room",
+        "29":"pencil",
+        "30":"folder"
+    },
+    "Bottom":
+    {
+      "1":"language",
+      "2":"domestic",
+      "3":"document",
+      "4":"reference",
+      "5":"mailing",
+      "6":"keyboard",
+      "7":"housewife",
+      "8":"general",
+      "9":"subversion",
+      "10":"pictures",
+      "11":"ring",
+      "12":"bottle",
+      "13":"lunch",
+      "14":"dinner",
+      "15":"kitchen",
+      "16":"stall",
+      "17":"design",
+      "18":"player",
+      "19":"home",
+      "20":"insert",
+      "21":"tablet",
+      "22":"cover",
+      "23":"doctor",
+      "24":"writer",
+      "25":"reader",
+      "26":"cartoon",
+      "27":"basic",
+      "28":"room",
+      "29":"pencil",
+      "30":"folder"
+    },
+
+
+
+    "Sentance":
+    {      
+      "1":"Thanks so much.",
+      "2":"I really appreciate.",
+      "3":"What do you think?",
+      "4":"How does that sound?"
+    },
+
+    "HardSentace":
+    {
+       "1":"Could you repeat that please?",
+      "2":"Thank you.That helps a lot"
+    },
+
+    "HomeSentace":
+    {
+      "1":"How do you spell that?",
+      "2":"What do you mean?",
+      "3":"Nice to meet you.",
+      "4":"Where are you from?",
+      "5":"What do you do?"
+    },
+
+    "TopSentace":
+    {
+      "1":"That sounds great.",
+      "2":"I’m learning English.",
+      "3":"I don’t understand.",
+      "4":"Could you repeat that please?",
+      "5":"Thank you.That helps a lot."
+    },
+
+    "BottomSentace":
+    {
+      "1":"That sounds great.",
+      "2":"I’m learning English.",
+      "3":"I don’t understand.",
+      "4":"Could you repeat that please?",
+      "5":"Thank you.That helps a lot."
+    }
+
+  }
+}
