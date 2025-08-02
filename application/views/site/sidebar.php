@@ -52,7 +52,7 @@
 					</li>
 				</ul>
 			</li>
-			<?php if($course_id<8) { ?>
+			<?php if($course_id<10) { ?>
 				<li >
 					<a href="javascript:;">
 					<i class="fa fa-book"></i>
@@ -79,7 +79,7 @@
 							<i class="fa fa-dot-circle-o"></i>
 							Objective</a>
 						</li>
-						<?php if($course_id!=7){ ?>
+						<?php if($course_id!=7 && $course_id!=8 && $course_id!=9){ ?>
 							<li >
 								<a  href="javascript:void(0);" class="set_time_popup" rel="email_practice" rev="set_time" data-title="Set Timer">
 								<i class="fa fa-envelope"></i>
@@ -109,7 +109,7 @@
 							<i class="fa fa-rocket"></i>
 							Speed Passage</a>
 						</li>
-						<?php if($course_id==7){ ?>
+						<?php if($course_id==7 || $course_id == 8 || $course_id == 9){ ?>
 							<li >
 								<a  href="javascript:void(0);" class="set_time_popup" rel="mobile_practice" rev="set_time" data-title="Set Timer">
 								<i class="fa fa-mobile"></i>
@@ -119,7 +119,7 @@
 					</ul>
 				</li>
 			<?php } ?>
-			<?php if($course_id>7) { ?>
+			<?php if($course_id>10) { ?>
 				<li>
 					<a href="javascript:;">
 					<i class="fa fa-keyboard-o"></i>
